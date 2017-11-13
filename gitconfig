@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = gecosta7@gmail.com
-	name = Geraldo Costa
+	email = zsh git_setup.sh
+	name = cd ~/code/$GITHUB_USERNAME/dotfiles
